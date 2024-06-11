@@ -1,0 +1,156 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "SoftwareDeveloperCVForPortfo.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>4+ years of experience</span> developing Web, interfaces, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>(Angular, React)</span> and <span class='underline'>Node.js</span>, applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In <span class='underline'>4+ years of experience</span> I've covered many roles: <span class='underline'>Software developer</span>, <span class='underline'>FullStack developer</span>, <span class='underline'>Frontend developer</span>, and <span class='underline'>Deep understanding of analyst tools </span>. I love contributing my knowledge to create new things that help solve problems.",
+        " I have a deep understanding of the entire web development process, from front-end development to backend programming, database management and hosting. I am a creative problem-solver with a focus on delivering user-centered solutions. I am a highly motivated and self-driven individual, with a passion for technology and a commitment to delivering high-quality work. I am open to new opportunities and welcome the chance to connect with other professionals in the industry.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Freelancer",
+            "Title": "Independent",
+            "Date": "May 2024 - Present",
+            "Description": [
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, React, Node.JS.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize,etc."
+            ]
+        },
+        {
+            "Tab": "iSAP Solutions",
+            "Title": "Software Developer",
+            "Date": "September 2022 - April 2024",
+            "Description": [
+                " Develop interactive, user-friendly web applications using modern front end technologies (React, or Angular).",
+                "Collaborate with back end developers and designers to implement responsive and visually appealing user interfaces.",
+                "Optimize web applications for maximum speed and scalability",
+                "Ensure cross-browser and cross-device compatibility.",
+                "Conduct code reviews, identify areas for improvement, and maintain high-quality coding standards."
+            ]
+        },
+        {
+            "Tab": "Almassar Org",
+            "Title": "FrontEnd developer ",
+            "Date": "December 2020 - September 2022",
+            "Description": [
+                "Designed impactful donation websites focusing on refugee support.",
+                "Collaborated on user-friendly interfaces using React JS for dynamic and responsive web experiences.",
+                "Conducted usability tests and ensured cross-browser compatibility.",
+                "Worked closely with back-end developers and contributed to coding standards."
+            ]
+        },
+        {
+            "Tab": "Enigma",
+            "Title": "FrontEnd developer",
+            "Date": "January 2020 - December 2020",
+            "Description": [
+                "developing and maintaining web app using React ",
+                "Translated requirements into dynamic web interfaces for optimal user experience.",
+                "Collaborated on seamless integration and maintained coding standards.",
+                "Ensured cross-browser compatibility and contributed to project planning."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Some Of My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "industbay",
+            "Description": "Industbay is a professionally managed and classified advertising platform that connects buyers and sellers of industrial machines, tools, and equipment in several industries. It is operated and controlled by Al Badr Tech LLC FZ, Dubai, United Arab Emirates. made with <span class='underline'>React.js</span> and <span class='underline'>Laravel</span>. It works with <span class='underline'>websockets</span>, <span class='underline'>schedules</span>,etc.",
+            "imgs": [
+                "assets/images/industbay/industbay.png"
+            ],
+            "demoLink": "https://industbay.com/",
+            "Technologies": [
+                "React.js",
+                "Laravel",
+                "SASS",
+                "React UI tools"
+            ]
+        },
+        {
+            "Title": "CRYPTOVERSEHUB",
+            "Description": "CryptoVerseHub is Built on the robust foundation of React and SCSS, allows users to search for information about various cryptocurrencies in real-time. made with <span class='underline'>React.js</span> and <span class='underline'>Node.js</span>.",
+            "imgs": [
+                "assets/images/Crypto/crypto.webp"
+            ],
+            "demoLink": "https://crypto-currency-verse-hub.netlify.app/",
+            "Technologies": [
+                "React.js",
+                "Node.js",
+                "SASS"
+            ]
+        },
+        {
+            "Title": "T2MEEN",
+            "Description": "The website displays the services and prices of the largest Sudanese insurance companies. Vehicle insurance, travel insurance, fire insurance, medical insurance, agricultural insurance...etc, made with <span class='underline'>Angular</span>, <span class='underline'>Node.js</span>.",
+            "imgs": [
+                "assets/images/T2MEEN/t2meen.png"
+            ],
+            "demoLink": "https://t2meen.com/",
+            "Technologies": [
+                "Angular",
+                "Node.js",
+                "SCSS",
+                "Angular Material"
+                
+            ]
+        },
+        {
+            "Title": "MAHMALL",
+            "Description": "MAHMALL A site for buying and selling used mobile devices.The site allows the user to upload pictures and specifications of the used device to display it to other users.made with <span class='underline'>Vanilla JavaScript</span>, <span class='underline'>HTML5, CSS3</span>and <span class='underline'>PHP</span>.",
+            "imgs": [
+                
+                "assets/images/MAHMALL/mahmall.png"
+            ],
+            "demoLink": "https://ae.mahmall.com/en",
+            "Technologies": [
+                "Vanilla JavaScript",
+                "HTML5",
+                "CSS3",
+                "PHP"
+               
+            ]
+        }
+       
+    ],
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Rosemary Oil Page",
+            "Description": "The website is a page displaying the rosemary oil product from Al Ameer Company, explaining the health benefits of using the oil.made with <span class='underline'>Vanilla JavaScript</span>, <span class='underline'>HTML5, CSS3</span>and <span class='underline'>PHP</span>.",
+            "demoLink": "https://alameerherbs.com/",
+            "Technologies": [
+                "Vanilla JavaScript",
+                "HTML5",
+                "CSS3",
+                "PHP"
+            ]
+        },
+        {
+            "Title": "Coming soon",
+            "Description": "A site for displaying (selling) car spare parts",
+            "demoLink": "https://alkaramamotors.com/",
+            "Technologies": [
+                "ٌReact.js",
+                "Node.js",
+                "SASS"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+}
